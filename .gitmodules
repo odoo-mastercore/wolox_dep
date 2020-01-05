@@ -17,3 +17,8 @@
 	path = OCA/l10n-chile
 	url = git@github.com:OCA/l10n-chile.git
 	branch = 12.0
+
+[submodule "odoo-mastercore/l10n_cl"]
+	path = odoo-mastercore/l10n_cl
+	url = git@github.com:odoo-mastercore/l10n_cl.git
+	branch = 12.0
